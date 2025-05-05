@@ -1,0 +1,65 @@
+"Life Cycle Emissions Factors for Electricity Generation Technologies, by Life Cycle Phase (g CO2e / kWh)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Generation Technology,One-Time Upstream,,,,,Ongoing Combustion,,,,,Ongoing Non-Combustion,,,,,One-Time Downstream,,,,,Total Life Cycle,,,,,,,Reference(s),Notes
+,,Min,1Q,Med,3Q,Max,Min,1Q,Med,3Q,Max,Min,1Q,Med,3Q,Max,Min,1Q,Med,3Q,Max,Min,1Q,Med,3Q,Max,References,Estimates,,
+Renewable,Biopower (All Technologies),NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,-1000,28,52,110,1300,57 (+2),276 (+4),EPRI 2013,
+,Co-firing,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,-1000,53,170,880,1300,,,EPRI 2013,
+,Direct Combustion,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,3,25,42,64,320,,,EPRI 2013,
+,Gasification,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,1.2,16,40,63,250,,,EPRI 2013,
+,Gasification Engine,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,14,85,95,100,110,,,EPRI 2013,
+,Photovoltaic (All Technologies),NR,NR,NR,NR,NR,--,--,--,--,--,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,11,30,43,62,226,17,46,"Hsu et al. 2012
+Kim et al. 2012",See https://www.nrel.gov/docs/fy13osti/56487.pdf for approximate apportionment of total to individual life cycle stages
+,Photovoltaic - Thin Film (All Technologies),NR,NR,NR,NR,NR,--,--,--,--,--,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,11,26,36,48,226,5,5,Kim et al. 2012,See https://www.nrel.gov/docs/fy13osti/56487.pdf for approximate apportionment of total to individual life cycle stages
+,a-Si,NR,NR,NR,NR,NR,--,--,--,--,--,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,11,29,37,55,226,,,Kim et al. 2012,See https://www.nrel.gov/docs/fy13osti/56487.pdf for approximate apportionment of total to individual life cycle stages
+,CdTe,NR,NR,NR,NR,NR,--,--,--,--,--,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,16,21,25,46,67,,,Kim et al. 2012,See https://www.nrel.gov/docs/fy13osti/56487.pdf for approximate apportionment of total to individual life cycle stages
+,CIGS,NR,NR,NR,NR,NR,--,--,--,--,--,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,21,34,41,55,95,,,Kim et al. 2012,See https://www.nrel.gov/docs/fy13osti/56487.pdf for approximate apportionment of total to individual life cycle stages
+,Photovoltaic - Crystalline Silicon (All Technologies),NR,NR,NR,NR,NR,--,--,--,--,--,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,20,44,57,73,217,13,41,Hsu et al. 2012,See https://www.nrel.gov/docs/fy13osti/56487.pdf for approximate apportionment of total to individual life cycle stages
+,mono-Si,NR,NR,NR,NR,NR,--,--,--,--,--,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,30,39,64,69,100,,,Hsu et al. 2012,See https://www.nrel.gov/docs/fy13osti/56487.pdf for approximate apportionment of total to individual life cycle stages
+,multi-Si,NR,NR,NR,NR,NR,--,--,--,--,--,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,20,45,56,84,217,,,Hsu et al. 2012,See https://www.nrel.gov/docs/fy13osti/56487.pdf for approximate apportionment of total to individual life cycle stages
+,Ground-mounted,NR,NR,NR,NR,NR,--,--,--,--,--,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,20,40,68,102,217,,,Hsu et al. 2012,See https://www.nrel.gov/docs/fy13osti/56487.pdf for approximate apportionment of total to individual life cycle stages
+,Roof-mounted,NR,NR,NR,NR,NR,--,--,--,--,--,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,20,44,56,69,102,,,Hsu et al. 2012,See https://www.nrel.gov/docs/fy13osti/56487.pdf for approximate apportionment of total to individual life cycle stages
+,Concentrating Solar Power (Trough and Tower), 10 , 14 , 20 , 32 , 56 ,--,--,--,--,--, 1.0 , 2.1 , 10 , 11 , 52 , 0.0004 , 0.35 , 0.53 , 1.9 , 2.2 ,11,20,28,44,241,10,36,Burkhardt et al. 2012,
+,Parabolic Trough, 10 , 13 , 16 , 21 , 30 ,--,--,--,--,--, 1.0 , 2.1 , 10 , 10 , 49 , 0.02 , 0.4 , 1.2 , 1.9 , 2.2 ,12,17,26,100,241,,,Burkhardt et al. 2012,
+,Power Tower, 11 , 18 , 34 , 39 , 56 ,--,--,--,--,--, 10 , 21 , 31 , 42 , 52 , 0.0004 , 0.13 , 0.26 , 0.35 , 0.37 ,11,23,38,43,200,,,Burkhardt et al. 2012,
+,Parabolic Dish, 7 , 14 , 15 , 20 , 89 ,--,--,--,--,--,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,7,14,15,20,89,,,Burkhardt et al. 2012,
+,Geothermal (All Technologies),3.9,5.2,15,28,71,--,--,--,--,--,0,1,6.9,58.1,240,0.04,0.07,0.12,0.18,0.4,5.6,22,37,52,245,15,35,Eberle et al. 2017,
+,EGS Binary,23,28,40,50,71,--,--,--,--,--,0,1,2.5,5.4,7.5,0.15,0.16,0.21,0.29,0.4,17,27,32,47,79,7,18,Eberle et al. 2017,
+,HT Flash,3.9,4.1,5.0,5.1,5.3,--,--,--,--,--,9.7,35,73,118,240,NR,NR,NR,NR,NR,15,39,47,118,245,7,9,Eberle et al. 2017,
+,HT Binary,5.7,8.0,15,19,21,--,--,--,--,--,0,0.7,0.9,56,77,0.04,0.04,0.06,0.08,0.08,5.6,5.8,11,39,97,5,8,Eberle et al. 2017,
+,Hydropower (All Technologies),0.46,2.8,6.2,10,40,--,--,--,--,--,0,0,1.9,3.5,37,0,0,0.004,0.07,0.44,0.57,8.4,21,27,75,22,149,Hydropower Vision Appendix G,Obtained distribution data and kWh estimates from internal Excel spreadsheet
+,Reservoir,0.46,3.0,3.8,6.1,23,--,--,--,--,--,0,0,0.55,5.3,20,0,0,0.004,0.07,0.44,1.6,5.7,13,21,43,14,48,Hydropower Vision Appendix G,Obtained distribution data and kWh estimates from internal Excel spreadsheet
+,Run-of-River,0.57,2.8,7.8,13,40,--,--,--,--,--,0,0,1.9,1.9,37,0,0,0.001,0.05,0.3,0.57,11,23,29,75,13,101,Hydropower Vision Appendix G,Obtained distribution data and kWh estimates from internal Excel spreadsheet
+,Ocean,NR,NR,NR,NR,NR,--,--,--,--,--,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,2.0,6.0,8.0,9.0,23,5,10,IPCC  2011,
+,Wind (All Technologies), 3.5 , 8.4 , 12 , 22 , 43 ,--,--,--,--,--, 0.04 ,0.4, 0.74 ,3.9,21,-9.8, 0.12 , 0.34 ,0.51, 4.3 ,1.3,8.1,13,22,81,69,186,Wind Vision Appendix J,Obtained distribution data and kWh estimates from internal Excel spreadsheet
+,Land-based, 3.5 , 7.2 , 11 , 19 , 43 ,--,--,--,--,--, 0.04 ,0.4, 0.74 ,2.0,21,-9.8, 0.06 , 0.27 ,0.42, 1.3 ,1.3,7.9,12,21,81,,,Wind Vision Appendix J,Obtained distribution data and kWh estimates from internal Excel spreadsheet
+,Offshore, 6.6 , 11 , 20 , 26 , 33 ,--,--,--,--,--, 0.1 ,0.44, 4.5 ,7.1,14, 0.02 , 0.38 , 0.49 ,0.80, 4.3 ,5.3,12,19,28,44,,,Wind Vision Appendix J,Obtained distribution data and kWh estimates from internal Excel spreadsheet
+Non-renewable,Nuclear - Light Water Reactor (LWR),NR,NR,2.0,NR,NR,--,--,--,--,--,NR,NR,12,NR,NR,NR,NR,0.70,NR,NR,3.1,7.7,13,31,220,27,99,Warner and Heath 2012,
+,Pressurized Water Reactor,NR,NR,2.0,NR,NR,--,--,--,--,--,NR,NR,9.9,NR,NR,NR,NR,0.45,NR,NR,3.1,5.6,14,53,220,,,Warner and Heath 2012,
+,Boiling Water Reactor,NR,NR,1.1,NR,NR,--,--,--,--,--,NR,NR,12,NR,NR,NR,NR,1,NR,NR,3.7,10,21,24,30,,,Warner and Heath 2012,
+,Nuclear - Non Light Water Reactor (non-LWR),NR,NR,NR,NR,NR,--,--,--,--,--,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,Warner and Heath 2012,
+,Heavy Water Reactor,NR,NR,2.0,NR,NR,--,--,--,--,--,NR,NR,0.37,NR,NR,NR,NR,0.34,NR,NR,1.7,14,57,64,150,,,Warner and Heath 2012,
+,Gas-Cooled Reactor,NR,NR,1.1,NR,NR,--,--,--,--,--,NR,NR,12,NR,NR,NR,NR,1.0,NR,NR,5.1,6.0,6.9,17,28,,,Warner and Heath 2012,
+,Fast Breeder Reactor,NR,NR,NR,NR,NR,--,--,--,--,--,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,0.78,0.83,0.87,4.3,7.7,,,Warner and Heath 2012,
+,Fusion,NR,NR,5.5,NR,NR,--,--,--,--,--,NR,NR,3.4,NR,NR,NR,NR,0.44,NR,NR,NR,NR,~9,NR,NR,,,Warner and Heath 2012,
+,Natural Gas - Conventional Gas,0.01,0.28,0.8,2,7.9,43,355,389,489,820,7,51,71,109,227,0.002,0.005,0.02,0.02,0.03,307,427.25,486,550.5,988,47 (+11),80 (+13),O'Donoughe et al. 2013,
+,NGCC,0.01,0.52,0.8,1,7.9,243,360,373,414,527,7,43,62,95,166,0.01,0.02,0.02,0.02,0.03,307,415.5,450,488.5,682,,,O'Donoughe et al. 2013,
+,NGCT,0.01,0.075,0.14,0.17,0.20,400,505,535,560,820,14,38,70,90,157,0.002,0.00225,0.003,0.003,0.003,488,550.5,604.5,654,988,,,O'Donoughe et al. 2013,
+,NGCC-CCS,0.64,0.64,0.64,0.64,0.64,43,47,47,65,98,51,63,81,112,147,NR,NR,NR,NR,NR,65,96,111,141,245,,,O'Donoughe et al. 2013,
+,LNGCC,1.2,1.6,2.0,2.4,2.7,105,365,371,400.5,507,15,63,92,124.75,169,NR,NR,NR,NR,NR,428,444,501,520.25,540,,,O'Donoughe et al. 2013,
+,LNGCT,2.1,2.3,2.5,2.7,2.9,478,488.5,499,574,649,127,152,177,202,227,NR,NR,NR,NR,NR,608,629.5,651,688.5,726,,,O'Donoughe et al. 2013,
+,Natural Gas - NGCC by Gas Source,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Shale,NR,NR,NR,NR,NR,NR,NR,360,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,437,486,488,554,758,,,Heath et al. 2014,
+,Unconventional,NR,NR,NR,NR,NR,NR,NR,360,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,529,529,529,529,529,,,Heath et al. 2014,
+,US Domestic,NR,NR,NR,NR,NR,NR,NR,360,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,473,473,473,473,473,,,Heath et al. 2014,
+,Conventional,NR,NR,NR,NR,NR,NR,NR,360,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,450,469,471,489,671,,,Heath et al. 2014,
+,Oil,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,510,722,840,907,1170,10,24,IPCC  2011,
+,Coal (All Technologies),NR,NR,<5,NR,NR,NR,NR,1010,NR,NR,NR,NR,10,NR,NR,NR,NR,<5,NR,NR,675,891,1001,1134,1689,53 (+9),164 (+11),Whitaker et al. 2014,
+,Pulverized Subcritical,NR,NR,<5,NR,NR,NR,NR,1150,NR,NR,NR,NR,<5,NR,NR,NR,NR,<5,NR,NR,714,980,1060,1196,1689,,,Whitaker et al. 2014,
+,IGCC,NR,NR,<5,NR,NR,NR,NR,790,NR,NR,NR,NR,190,NR,NR,NR,NR,<5,NR,NR,675,759,838,888,"1,130",,,Whitaker et al. 2014,
+,Fluidized Bed,NR,NR,5,NR,NR,NR,NR,1010,NR,NR,NR,NR,30,NR,NR,NR,NR,<5,NR,NR,771,960,993,1053,1249,,,Whitaker et al. 2014,
+,Pulverized Supercitical,NR,NR,6,NR,NR,NR,NR,880,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,687,781,863,922,1059,,,Whitaker et al. 2014,
+Storage,Pumped-Storage Hydropower,0.03,2.6,3.0,4.2,51,--,--,--,--,--,0.77,1.8,1.8,1.8,373,0.02,0.06,0.07,0.08,1.2,4.5,4.8,7.4,89,608,4,16,Hydropower Vision Appendix G,Obtained distribution data and kWh estimates from internal Excel spreadsheet
+,Li-Ion Battery Storage,17.7,27.7,31.5,49,82,--,--,--,--,--,NR,NR,NR,NR,NR,3.4,3.4,3.4,3.4,3.4,17.7,28.2,32.9,49,82,3,29,"Hiremath et al. 2015
+Baumann et al. 2017
+Vandepaer et al. 2018",Downstream is only reported by one source (Vandepaer et al. 2018)
+,Hydrogen Storage,NR,NR,26.69,NR,NR,--,--,--,--,--,NR,NR,2.48,NR,NR,NR,NR,1.85,NR,NR,23.47,32,38,43.9184,53,1,1,Khan et al. 2005,"Only one source (Khan et al. 2005) met screening criteria and reported estimates per unit of generation
+ 95% confidence interval of summed sensitivity results"
